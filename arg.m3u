@@ -2839,6 +2839,10 @@ https://srv5.zcast.com.br/radiozero/radiozero/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Elonce_TV_Salta.png/640px-Elonce_TV_Salta.png" group-title="SALTA", EL ONCE TV SALTA
 http://181.209.125.237:9000/play/a03a/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Elonce_TV_Salta.png/640px-Elonce_TV_Salta.png" group-title="SALTA", EL ONCE TV SALTA
+https://sae11.playlist.live-video.net/v1/playlist/CusFAk-QFVSXjWfPs6egvZBDxfdPrkELSJkDA5v-JNFw_fB-O2Xv9tXy7lmKiJ-hrbn0Iq69vOvfum5GPlO0TBYfvN8oNxljiVh_yO8umhGLJP0pnSq_V9hSFbQiDD0KjODSvhnzGkDHm9-Oiu0bMjUn_gUinEiKYYub8NHqmijvapzbtgEQ0WANltoPxuezLWsCNDwJ8sfVcG5iRkhTbaw133PQYC3snHASeaRDb9SSvRsxsUHqZgstq0YLMjdqONkIExItyz5FsoMT5XzsvThT3GW00F_fdkiv76KuglfIMlVu127U9Cw0jsKLpTmUog4GY7izvHqkuw-SIDsL1TlpyKGzY_tIFC0VrosUR0G6gVfRXF2wAs4Hg5-lWZcsXLg3i1Q6b6v-z_f_w5jBlrt_Fimky3nTLmh5-erSE4IdDYDlQYoGwKaFWE60i-83F5V9LUALeNCgTrwodZLyKBwOkvX3IEbBCgFqM7Eyo3aUOeM9HXPv8Hb6_2nhVo9rD5qdg4oLVsSbcMHwBpA9a3s4_dWXoW4b9fq89CgK6Q-jwqyX7_07kOe2AxC9UcFZ2us0kO9X72_PBgtCYdIfSCJxbbixwElTReEZNvpX1Zd7oqcK02IdFHeBmhNnEeN4srVMLSr4bhnEJP3FignJluHWOt8hFoNht_DF1EhgbUPdpsIxCbY1jLZJzMr9SxA5QOqqt4AHRfEQHXfC_ipEKVJHvQR3IBXVQ2GjKrIxOKttF4ztGscQyVjBb03gsD14JxMVx89Hj3AQPRnSLC2yWktm7ZsmpiBBBoznF3hAcYFEGhVkfoyhLaOYx7DTYdY-dnMWjvj37n4Gt_VifFv-hgrO0nopUSv9Yk1tgm0VQdjmup6CnY4iwbY185vqSWcCS_l5mCrvTO6iauak268-hmEGmiw7q1jukrHrUbvEvLVUrF1-rkAFuAvk7ChraWV-sjnTX3BLkhob1vmYaOtYLHjbOd4qsbiDrmYkvJOvGgy3ShXk9wjqPvfuYjIgASoJdXMtZWFzdC0yMOoN.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-4uuTlgBxIrI/T-8fuime0xI/AAAAAAAAAu0/az3W_0QE8Aw/s1600/canal2.jpg" group-title="SALTA", CANAL 2 SALTA
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
 
