@@ -918,6 +918,9 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm3sRV1dGXPNeiBDKi0k5595Kmc7_xtI4xQ&s" group-title="NOTICIAS INTERNACIONAL", NHK
 https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/arirangtv/picture?width=200&height=200" group-title="NOTICIAS INTERNACIONAL" , Arirang TV
+https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/www.ukraine24.ua/picture?width=200&height=200" group-title="NOTICIAS INTERNACIONAL" , Ukraine 24 Ucrania
 http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
 
@@ -959,10 +962,6 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2b
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/newsmax/picture?width=200&height=200" group-title="NOTICIAS INTERNACIONAL" , Newsmax TV USA 
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/newsmax/picture?width=200&height=200" group-title="NOTICIAS INTERNACIONAL" , BRASIL
-
-https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY1MjE5MTcxIiwic2lwIjoiMTg2LjEzLjIwOC4xMDUiLCJwYXRoIjoiL2xpdmUvYzdlZHMvQmFuZGVpcmFudGVzL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjQ1YTk0MDljYmFhYWVhZDciLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjk5Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.o6Qga7_kMYNC-MLvgT2C1Ns_QYqDmKVobK4RYgNnVpkp_mu5KOeUadl0lociLdV0NsiMl3kks9daaFrJOUN12w==/live/c7eds/Bandeirantes/SA_Live_dash_enc_C/Bandeirantes.mpd
 
 
 
