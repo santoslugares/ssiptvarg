@@ -936,9 +936,6 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/196px-Cable_Noticias_logo.svg.png" group-title="NOTICIAS INTERNACIONAL", CABLENOTICIAS COLOMBIA
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.telemundo51.com/2022/08/Telemundo-Miami.png?fit=304%2C100&quality=85&strip=all&w=122&h=40" group-title="NOTICIAS INTERNACIONAL", TELEMUNDO FLORIDA
-https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/668px-Rai_News_24_-_Logo_2013.svg.png" group-title="NOTICIAS INTERNACIONAL", RAI NEWS
 https://streamcdnc3-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
 
@@ -963,7 +960,9 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2b
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/newsmax/picture?width=200&height=200" group-title="NOTICIAS INTERNACIONAL" , Newsmax TV USA 
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/newsmax/picture?width=200&height=200" group-title="NOTICIAS INTERNACIONAL" , BRASIL
 
+https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY1MjE5MTcxIiwic2lwIjoiMTg2LjEzLjIwOC4xMDUiLCJwYXRoIjoiL2xpdmUvYzdlZHMvQmFuZGVpcmFudGVzL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjQ1YTk0MDljYmFhYWVhZDciLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjk5Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.o6Qga7_kMYNC-MLvgT2C1Ns_QYqDmKVobK4RYgNnVpkp_mu5KOeUadl0lociLdV0NsiMl3kks9daaFrJOUN12w==/live/c7eds/Bandeirantes/SA_Live_dash_enc_C/Bandeirantes.mpd
 
 
 
