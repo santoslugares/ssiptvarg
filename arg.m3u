@@ -168,7 +168,7 @@ http://190.104.67.135:234/play/a07c/index.m3u8
 https://unlimited1-saopaulo.dps.live/carastv/carastv.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVyU_QZarytEVV2Zf03KmfDRZRLMND_tpnwg&s" group-title="NACIONALES", AUNAR
-http://200.106.13.204:8000/play/a0ev/index.m3u8
+http://181.209.37.74:8001/play/a0e0/index.m3u8
 
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/800px-Telemax_Argentina_%282018%29.png" group-title="NACIONALES", TELEMAX
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
@@ -220,7 +220,7 @@ http://190.104.67.135:234/play/a06s/index.m3u8
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409840532529029128/jDV8aWP-_400x400.jpg" group-title="NACIONALES", CIUDAD MAGAZINE
-https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+http://181.209.37.74:8001/play/a06m/index.m3u8
 
 #EXTINF:-1 tvg-id="68224482c5d53e1351aaf2f2" tvg-name="Canal Claro" tvg-logo="https://images.pluto.tv/channels/68224482c5d53e1351aaf2f2/colorLogoPNG_1751655767455.png" group-title="NACIONALES", Canal Claro
 https://stitcher.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e3ca3088-b0b3-11f0-ab21-da2bce2249f9
@@ -247,9 +247,9 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 http://200.106.13.204:8000/play/a0ek/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4gbANSM7ZuvPP3MXVX3w-7W4MqVT09hoGmw&usqp=CAU" group-title="NACIONALES", LA 100
-https://live-05-13-la100.vodgc.net/live-05-13-la100/tracks-v1a1/mono.m3u8
+https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8?uid=7G05Do7ndxTh4u1jN2UyEXCbSCrM9JuK&sid=3lfM8IjM9DCSZZHltclcB2zl5Hm5dsC9&pid=TCiiNMZDgBJhxkGOSSUFRvqAHdITBgMl&pid_dvr=13lVoWZoqlJzCHd3YL5Iw5dtPquYyrSI&an=screen&at=web-app&av=v6.0.234&ref=https%3A%2F%2Fla100.cienradios.com%2F&res=713x401&without_cookies=false&listenerid=&dnt=true&CMCD=cid%3D%2268b74fd1d6512526f1f7c75a%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22TCiiNMZDgBJhxkGOSSUFRvqAHdITBgMl%22%2Csu
 
-#EXTINF:-1 tvg-logo="https://www.latina101.com.ar/images/logo.png" group-title="NACIONALES", LATINA RADIO FM 101.1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/LatinaFM.png" group-title="NACIONALES", LATINA RADIO FM 101.1
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vorterix.com/images/logo_vorterix-horizontal.svg" group-title="NACIONALES", VORTERIX
