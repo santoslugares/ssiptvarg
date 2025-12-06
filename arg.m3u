@@ -2634,6 +2634,10 @@ https://g4.proy-slo.transport.edge-access.net/a01/ngrp:canal7mendoza-100056_all/
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="MENDOZA", CANAL 9 MENDOZA
 https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Canal_6_Telesur_%28Logo_2022%29.png/revision/latest?cb=20230704220702"  group-title="MENDOZA", CANAL 6 SAN RAFAEL
+https://lilac01.pontiscloud.com/bpk-tv/canal6sanrafael/default/index.mpd
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318990468290646016/D65h3HYF_400x400.jpg" group-title="MENDOZA", JTA TV
 https://streaming.jtamendoza.com/hls/test_hd720.m3u8
 
