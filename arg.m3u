@@ -1589,7 +1589,7 @@ https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-10004
 http://179.1.148.246:8888/play/a0fr/index.m3u8
 
 #EXTINF:-1 tvg-id="HTV.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-HTV.png" audio-track="spa" group-title="TELECENTRO", HTV
-http://190.233.83.45:1983/play/a1qq/index.m3u8
+http://143.0.67.75:8000/play/a02o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/33QT9mcUIUX6ezV5xXA61r/6da57dc09d602d6ba128357517588d3c/115_MTVHits.png?fm=webp&q=80" group-title="TELECENTRO" , MTV Hits
 http://200.115.120.1:8000/play/ca069/index.m3u8
