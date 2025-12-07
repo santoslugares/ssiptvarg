@@ -1350,7 +1350,7 @@ http://200.80.230.123:8000/play/a06u/index.m3u8
 http://200.80.230.123:8000/play/a02e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/200px-Tooncast_logo.svg.png" group-title="TELECENTRO", Tooncast 
-http://45.5.150.5:8887/play/a08s/index.m3u8
+http://190.233.83.45:1983/play/a1ql/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/BitMe.png/revision/latest?cb=20200123215611&path-prefix=es" group-title="TELECENTRO", Bitme HD
 http://181.78.80.35:8080/play/a013/index.m3u8
