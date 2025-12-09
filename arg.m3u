@@ -2691,6 +2691,9 @@ https://srvchp.witel.ar:1936/live/teveocho/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/07/18-platea-vip-800x450.jpg" group-title="LA RIOJA", Canal 11 Platea Vip
 https://stmv6.voxtvhd.com.br/canal11larioja/canal11larioja/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://diariochilecito.com/wp-content/uploads/2022/09/1-logo-tv-png.png" group-title="LA RIOJA", Chilecito TV
+https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
+
 #EXTINF:-1 tvg-logo="https://fmpucara917.com/uploads/logo/logo_5ccca1e3a8bcc.png" group-title="LA RIOJA", FM PUCARA 91.7 CHILECITO
 https://stmvideo1.livecastv.com/fmpucara/fmpucara/playlist.m3u8   
 
