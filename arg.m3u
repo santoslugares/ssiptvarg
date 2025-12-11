@@ -1191,7 +1191,7 @@ http://200.80.230.123:8000/play/a02e/index.m3u8
 http://190.233.83.45:1983/play/a1ql/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/BitMe.png/revision/latest?cb=20200123215611&path-prefix=es" group-title="TELECENTRO", Bitme HD
-http://181.78.80.35:8080/play/a013/index.m3u8
+http://liketv.pro:80/User1626/28TM4MEU66/126455.ts
 
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-Telesur.png" group-title="TELECENTRO", Telesur
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
