@@ -2789,6 +2789,9 @@ https://videostream.shockmedia.com.ar:19360/fmlatina925/fmlatina925.m3u8
 #EXTINF:-1 tvg-logo="https://ciudadfm.com.ar/wp-content/uploads/2024/06/canal-12-150px.png" group-title="SALTA", Canal 12 Tartagal 
 https://stream.arcast.net:4443/munitar/munitar/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.impactocafayate.com/images/256/10638980/iconosimpacto12.png" group-title="SALTA", Infinito 96.5 FM Salta
+https://vivo.solumedia.com:19360/infinito965/infinito965.m3u8
+
 
 
 
