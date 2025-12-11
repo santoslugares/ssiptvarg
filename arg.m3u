@@ -1402,7 +1402,7 @@ http://38.44.109.41:8003/play/a03f/index.m3u8
 http://200.80.230.123:8000/play/a02k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7jOLhFfEgvIJD81fcVjRpD/95fddfd8e7b896ea3dca3c6ee63fbe42/62_TVE.png?fm=webp&q=80" group-title="TELECENTRO" , STAR TVE
-http://38.41.8.1:8000/play/a0uq
+http://liketv.pro:80/User1626/28TM4MEU66/55.ts
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/1sB4rWsE3tpUxTIH7Bykf8/40497fcccd89b75d19f8a44cac4314eb/66_EuropaEuropa.png?fm=webp&q=80" group-title="TELECENTRO" , Film & Arts
 http://190.233.83.45:1983/play/a1qm/index.m3u8
