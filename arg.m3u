@@ -24,10 +24,10 @@ http://201.217.246.177:8000/play/a05b/index.m3u8
 http://201.217.246.177:8000/play/a076/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/500px-ESPN_5_logo.svg.png" group-title="Tango Sports", ESPN 5
-http://45.224.96.65:8011/play/a0jt/index.m3u8
+http://190.104.67.111:234/play/a0on/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/500px-ESPN_6_logo.svg.png" group-title="Tango Sports", ESPN 6
-http://45.224.96.65:8011/play/a07r/index.m3u8
+http://190.104.67.111:234/play/a0nu/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/504px-ESPN_7_logo.svg.png" group-title="Tango Sports", ESPN 7
 http://45.224.96.65:8011/play/a0l5/index.m3u8
