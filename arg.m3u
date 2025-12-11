@@ -2759,9 +2759,8 @@ https://srv5.zcast.com.br/radiozero/radiozero/playlist.m3u8
 
 
 
-
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Elonce_TV_Salta.png/250px-Elonce_TV_Salta.png" group-title="SALTA", ONCE SALTA
+http://liketv.pro:80/User1626/28TM4MEU66/320825.ts
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/182lIA0RwU35mgnPDd0dCdQMqIUSmyfNyJFBPyWBi6ZoGfPi-sxF5sY09riVLaZG7DhP" group-title="SALTA", CANAL 7 SALTA
 https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8
