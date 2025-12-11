@@ -63,7 +63,7 @@ http://181.78.106.127:9000/play/ca030/index.m3u8
 http://190.233.83.45:1983/play/a1un/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS
-http://38.199.6.1:17001/play/a0d0/index.m3u8
+http://liketv.pro:80/User1626/28TM4MEU66/131.ts
 
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS
 http://190.108.89.228:8000/play/a05w/index.m3u8
