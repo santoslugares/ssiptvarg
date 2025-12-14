@@ -542,236 +542,287 @@ http://179.1.148.246:8888/play/a0m3/index.m3u8
 
 
 
-#EXTINF:-1 group-title="LATINO 2",26TV
-http://190.104.67.111:234/play/a05x/index.m3u8
+
+#EXTINF:-1 group-title="LATINO 2",1-A&E
+http://45.5.151.62:8000/play/a07i/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",1-AMC
+http://45.5.151.62:8000/play/a07f/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",1-AXN
+http://45.5.151.62:8000/play/a07h/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",1-Animal Planet
+http://45.5.151.62:8000/play/a07g/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",1-CNN Esp
+http://45.5.151.62:8000/play/a07k/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",1-Cartoon Network
+http://45.5.151.62:8000/play/a07j/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",1-Comedy Central
+http://45.5.151.62:8000/play/a07l/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",1-Discovery Ch
+http://45.5.151.62:8000/play/a07m/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",1-Discovery HGTV
+http://45.5.151.62:8000/play/a07n/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",1-Discovery ID
+http://45.5.151.62:8000/play/a07o/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",1-Discovery Kids
+http://45.5.151.62:8000/play/a07p/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",1-Discovery Science
+http://45.5.151.62:8000/play/a07q/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",1-Discovery TCL
+http://45.5.151.62:8000/play/a07r/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",1-Discovery World
+http://45.5.151.62:8000/play/a07s/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",1-Disney Ch
+http://45.5.151.62:8000/play/a07t/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",1-Disney Jr
+http://45.5.151.62:8000/play/a07u/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",1-E Entertainment
+http://45.5.151.62:8000/play/a07v/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",1-ESPN 4
+http://45.5.151.62:8000/play/a07x/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",1-El Gourmet
+http://45.5.151.62:8000/play/a07w/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",1-Europa
+http://45.5.151.62:8000/play/a07y/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",1-Films & Arts
+http://45.5.151.62:8000/play/a07z/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",1-Fox Sports
+http://45.5.151.62:8000/play/a07e/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",2-CMusica
+http://45.5.151.62:8000/play/a081/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",2-El Garage
+http://45.5.151.62:8000/play/a082/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",2-FX
+http://45.5.151.62:8000/play/a080/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",2-Food Network
+http://45.5.151.62:8000/play/a083/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",2-HBO
+http://45.5.151.62:8000/play/a084/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",2-HBO 2
+http://45.5.151.62:8000/play/a085/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",2-HBO EXTREME
+http://45.5.151.62:8000/play/a086/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",2-HBO FAMILY
+http://45.5.151.62:8000/play/a087/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",2-HBO MUND
+http://45.5.151.62:8000/play/a088/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",2-HBO PLUS
+http://45.5.151.62:8000/play/a089/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",2-HBO POP
+http://45.5.151.62:8000/play/a08a/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",2-HTV
+http://45.5.151.62:8000/play/a08c/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",2-History
+http://45.5.151.62:8000/play/a08b/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",2-MTV
+http://45.5.151.62:8000/play/a08e/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",2-Mas Chic
+http://45.5.151.62:8000/play/a08d/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",2-Nat Geo
+http://45.5.151.62:8000/play/a08f/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",2-Nic Jr
+http://45.5.151.62:8000/play/a08g/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",2-Nickelodeon
+http://45.5.151.62:8000/play/a08h/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",2-Paka Paka
+http://45.5.151.62:8000/play/a08i/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",2-Paramount
+http://45.5.151.62:8000/play/a08j/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",2-Rural
+http://45.5.151.62:8000/play/a08k/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",2-Space
+http://45.5.151.62:8000/play/a08l/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",2-Star Channel
+http://45.5.151.62:8000/play/a08m/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",2-Studio Universal
+http://45.5.151.62:8000/play/a08n/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",2-TNT
+http://45.5.151.62:8000/play/a08q/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",2-TNT Novelas
+http://45.5.151.62:8000/play/a08r/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",2-TNT Series
+http://45.5.151.62:8000/play/a08s/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",2-Tec TV
+http://45.5.151.62:8000/play/a08o/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",2-Telemundo
+http://45.5.151.62:8000/play/a08p/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",2-Tooncast
+http://45.5.151.62:8000/play/a08t/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",2-USA Network
+http://45.5.151.62:8000/play/a08v/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",2-Universal Ch
+http://45.5.151.62:8000/play/a08u/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",2-Warner ch
+http://45.5.151.62:8000/play/a08w/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",3-A24
+http://45.5.151.62:8000/play/a08x/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",3-America TV
+http://45.5.151.62:8000/play/a08y/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",3-C5N
+http://45.5.151.62:8000/play/a08z/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",3-Canal26
+http://45.5.151.62:8000/play/a090/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",3-Cine.ar
+http://45.5.151.62:8000/play/a091/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",3-Cronica
+http://45.5.151.62:8000/play/a092/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",3-ESPN
+http://45.5.151.62:8000/play/a096/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",3-ESPN 2
+http://45.5.151.62:8000/play/a097/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",3-ESPN 3
+http://45.5.151.62:8000/play/a098/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",3-ESPN PREMIUM
+http://45.5.151.62:8000/play/a099/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",3-El Nueve
+http://45.5.151.62:8000/play/a093/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",3-El Trece
+http://45.5.151.62:8000/play/a094/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",3-Encuentro
+http://45.5.151.62:8000/play/a095/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",3-FOX SPORTS 2
+http://45.5.151.62:8000/play/a09a/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",3-FOX SPORTS 3
+http://45.5.151.62:8000/play/a09b/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",3-La Nacion +
+http://45.5.151.62:8000/play/a09c/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",3-TELEFE
+http://45.5.151.62:8000/play/a09d/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",3-TN
+http://45.5.151.62:8000/play/a09e/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",3-TNT SPORTS
+http://45.5.151.62:8000/play/a09f/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",3-TV PUBLICA
+http://45.5.151.62:8000/play/a09g/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",3-TyC SPORTS
+http://45.5.151.62:8000/play/a09h/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",62-C5N
+http://45.5.151.62:8000/play/a05q/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",62-El Trece
+http://45.5.151.62:8000/play/a061/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",62-La Nacion +
+http://45.5.151.62:8000/play/a06f/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",62-TN LOCAL
+http://45.5.151.62:8000/play/a05g/index.m3u8
 #EXTINF:-1 group-title="LATINO 2",A&E HD
-http://190.104.67.111:234/play/a09h/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",A24
-http://190.104.67.111:234/play/a05u/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",AM Sports
-http://190.104.67.111:234/play/a061/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",AMC
-http://190.104.67.111:234/play/a064/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",AMC HD
-http://190.104.67.111:234/play/a0ob/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",ARGENTINISIMA
-http://190.104.67.111:234/play/a0cz/index.m3u8
+http://45.5.151.62:8000/play/a0a3/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",AMERICA 24 HD
+http://45.5.151.62:8000/play/a021/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",AMERICA TV HD
+http://45.5.151.62:8000/play/a071/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",AMERICA TV HD
+http://45.5.151.62:8000/play/a09i/index.m3u8
 #EXTINF:-1 group-title="LATINO 2",AXN HD
-http://190.104.67.111:234/play/a09e/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Adult swim HD
-http://190.104.67.111:234/play/a08d/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",America TV HD
-http://190.104.67.111:234/play/a094/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Animal Planet HD
-http://190.104.67.111:234/play/a0ok/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",BETHEL TV
-http://190.104.67.111:234/play/a0ng/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Baby TV
-http://190.104.67.111:234/play/a06j/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",C5N
-http://190.104.67.111:234/play/a05v/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",CHV HD
-http://190.104.67.111:234/play/a0p2/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",CNN en Espaæol
-http://190.104.67.111:234/play/a093/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Canal a
-http://190.104.67.111:234/play/a06d/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Canal de la Ciudad
-http://190.104.67.111:234/play/a07c/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Cartoon Network HD
-http://190.104.67.111:234/play/a083/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Cine.AR
-http://190.104.67.111:234/play/a069/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Cinecanal HD
-http://190.104.67.111:234/play/a089/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Cinemax
-http://190.104.67.111:234/play/a08r/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Comedy Central HD
-http://190.104.67.111:234/play/a072/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Crðnica
-http://190.104.67.111:234/play/a05w/index.m3u8
+http://45.5.151.62:8000/play/a0a4/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",Argentinisima
+http://45.5.151.62:8000/play/a09t/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",BOLIVISION
+http://45.5.151.62:8000/play/a04x/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",BOLIVISION HD
+http://45.5.151.62:8000/play/a06w/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",Baby tv
+http://45.5.151.62:8000/play/a09v/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",C5N HD
+http://45.5.151.62:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",CANAL 13 HD
+http://45.5.151.62:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",CANAL 13 HD
+http://45.5.151.62:8000/play/a070/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",CANAL 26 HD
+http://45.5.151.62:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",CANAL 7 JUJUY
+http://45.5.151.62:8000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",CANAL 9 HD
+http://45.5.151.62:8000/play/a072/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",CANAL 9 HD
+http://45.5.151.62:8000/play/a09j/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",CANAL DE LA MUSICA
+http://45.5.151.62:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",CANAL DE LAS ESTRELLAS HD
+http://45.5.151.62:8000/play/a06q/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",CANAL DE LAS ESTRELLAS HD
+http://45.5.151.62:8000/play/a09y/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",CANAL LUZ
+http://45.5.151.62:8000/play/a04z/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",CANAL a
+http://45.5.151.62:8000/play/a079/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",CINECANAL HD
+http://45.5.151.62:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",CINEMAX HD
+http://45.5.151.62:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",CNN EN ESPAÑOL
+http://45.5.151.62:8000/play/a06v/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",CRONICA TV
+http://45.5.151.62:8000/play/a024/index.m3u8
 #EXTINF:-1 group-title="LATINO 2",DHE HD
-http://190.104.67.111:234/play/a0p6/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",DeporTV
-http://190.104.67.111:234/play/a07f/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Discovery Channel HD
-http://190.104.67.111:234/play/a08g/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Discovery H&H HD
-http://190.104.67.111:234/play/a08f/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Discovery Kids
-http://190.104.67.111:234/play/a07r/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Discovery Science
-http://190.104.67.111:234/play/a06p/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Discovery Theater HD
-http://190.104.67.111:234/play/a074/index.m3u8
+http://45.5.151.62:8000/play/a03y/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",DREAMWORKS HD
+http://45.5.151.62:8000/play/a010/index.m3u8
 #EXTINF:-1 group-title="LATINO 2",Discovery Turbo
-http://190.104.67.111:234/play/a062/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Discovery World HD
-http://190.104.67.111:234/play/a076/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Disney Channel HD
-http://190.104.67.111:234/play/a06w/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Disney Junior
-http://190.104.67.111:234/play/a08x/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",E! Entertainment
-http://190.104.67.111:234/play/a08z/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",ENLACE
-http://190.104.67.111:234/play/a0d6/index.m3u8
+http://45.5.151.62:8000/play/a09w/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",EL GARAGE HD
+http://45.5.151.62:8000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",EL GOURMET HD
+http://45.5.151.62:8000/play/a07c/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",ENCUENTRO 
+http://45.5.151.62:8000/play/a07b/index.m3u8
 #EXTINF:-1 group-title="LATINO 2",ESPN 2 HD
-http://190.104.67.111:234/play/a098/index.m3u8
+http://45.5.151.62:8000/play/a00e/index.m3u8
 #EXTINF:-1 group-title="LATINO 2",ESPN 3 HD
-http://190.104.67.111:234/play/a09a/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",ESPN 4 HD
-http://190.104.67.111:234/play/a084/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",ESPN 5HD
-http://190.104.67.111:234/play/a0on/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",ESPN 6HD
-http://190.104.67.111:234/play/a0nu/index.m3u8
+http://45.5.151.62:8000/play/a00f/index.m3u8
 #EXTINF:-1 group-title="LATINO 2",ESPN HD
-http://190.104.67.111:234/play/a099/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",ESPN Premium HD
-http://190.104.67.111:234/play/a086/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",ETC
-http://190.104.67.111:234/play/a0p8/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",El Canal  de las Estrellas
-http://190.104.67.111:234/play/a07x/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",El Gourmet
-http://190.104.67.111:234/play/a07u/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",El Gourmet HD
-http://190.104.67.111:234/play/a0o1/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Europa Europa
-http://190.104.67.111:234/play/a07t/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",FX HD
-http://190.104.67.111:234/play/a0nq/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",FX HD
-http://190.104.67.111:234/play/a070/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Film & Arts HD
-http://190.104.67.111:234/play/a075/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Fox Sports 2 HD
-http://190.104.67.111:234/play/a09b/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Fox Sports 3 HD
-http://190.104.67.111:234/play/a06y/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Fox Sports HD
-http://190.104.67.111:234/play/a085/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Galicia TV
-http://190.104.67.111:234/play/a06v/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",HBO
-http://190.104.67.111:234/play/a07m/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",HBO 2
-http://190.104.67.111:234/play/a07o/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",HBO Family
-http://190.104.67.111:234/play/a07p/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",HBO HD
-http://190.104.67.111:234/play/a0oc/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",HBO Mundi
-http://190.104.67.111:234/play/a06f/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",HBO Plus
-http://190.104.67.111:234/play/a07n/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",HBO Signature
-http://190.104.67.111:234/play/a06h/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",HBO Xtreme
-http://190.104.67.111:234/play/a06g/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",HGTV
-http://190.104.67.111:234/play/a06o/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",HTV
-http://190.104.67.111:234/play/a06t/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",History 2
-http://190.104.67.111:234/play/a06n/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",History Channel
-http://190.104.67.111:234/play/a090/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",ID HD
-http://190.104.67.111:234/play/a0ol/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",La Nacion TV
-http://190.104.67.111:234/play/a05y/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Las Estrellas HD
-http://190.104.67.111:234/play/a0pc/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Lifetime
-http://190.104.67.111:234/play/a07l/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",MEGA HD
-http://190.104.67.111:234/play/a0p4/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",MTV
-http://190.104.67.111:234/play/a06r/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",MTV HD
-http://190.104.67.111:234/play/a0od/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",MTV LIVE HD
-http://190.104.67.111:234/play/a0oo/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",MTV×00
-http://190.104.67.111:234/play/a092/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Metro
-http://190.104.67.111:234/play/a06l/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Nat Geo HD
-http://190.104.67.111:234/play/a09f/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Nick Jr
-http://190.104.67.111:234/play/a07s/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Nickelodeon
-http://190.104.67.111:234/play/a08y/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Pakapaka
-http://190.104.67.111:234/play/a05t/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Paramount HD
-http://190.104.67.111:234/play/a0nv/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Paramount HD
-http://190.104.67.111:234/play/a073/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Pasiones HD
-http://190.104.67.111:234/play/a0p3/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Quiero Musica
-http://190.104.67.111:234/play/a06s/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",RAI Italia
-http://190.104.67.111:234/play/a06u/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",RT en Espaæol
-http://190.104.67.111:234/play/a07d/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Rural
-http://190.104.67.111:234/play/a06k/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Sony HD
-http://190.104.67.111:234/play/a09c/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Sony Movies HD
-http://190.104.67.111:234/play/a09j/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Space HD
-http://190.104.67.111:234/play/a071/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Star Channel HD
-http://190.104.67.111:234/play/a087/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Studio Universal
-http://190.104.67.111:234/play/a067/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Sun Channel HD
-http://190.104.67.111:234/play/a0p7/index.m3u8
+http://45.5.151.62:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",EWTN
+http://45.5.151.62:8000/play/a04y/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",Enlace tv
+http://45.5.151.62:8000/play/a051/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",FOOD NETWORKS HD
+http://45.5.151.62:8000/play/a06p/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",LN+ HD
+http://45.5.151.62:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",MAGAZINE
+http://45.5.151.62:8000/play/a03w/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",MASCHIC HD
+http://45.5.151.62:8000/play/a0a1/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",MULTIVISION
+http://45.5.151.62:8000/play/a029/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",NICK JR
+http://45.5.151.62:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",PARAMOUNT HD
+http://45.5.151.62:8000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",SONY HD
+http://45.5.151.62:8000/play/a02x/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",SONY HD
+http://45.5.151.62:8000/play/a0a2/index.m3u8
 #EXTINF:-1 group-title="LATINO 2",TCM
-http://190.104.67.111:234/play/a065/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",TLNovelas
-http://190.104.67.111:234/play/a07y/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",TN HD
-http://190.104.67.111:234/play/a097/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",TNT HD
-http://190.104.67.111:234/play/a08b/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",TNT Novelas HD
-http://190.104.67.111:234/play/a08e/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",TNT Series HD
-http://190.104.67.111:234/play/a08c/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",TNT Sports HD
-http://190.104.67.111:234/play/a06z/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",TV Publica HD
-http://190.104.67.111:234/play/a095/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",TVE
-http://190.104.67.111:234/play/a080/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",TVN HD
-http://190.104.67.111:234/play/a0p1/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Telefe HD
-http://190.104.67.111:234/play/a08a/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",The History Channel HD
-http://190.104.67.111:234/play/a09g/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",TyC Sports HD
-http://190.104.67.111:234/play/a06x/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",USA Network
-http://190.104.67.111:234/play/a068/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Universal HD
-http://190.104.67.111:234/play/a09i/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Volver
-http://190.104.67.111:234/play/a066/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",Warner Channel HD
-http://190.104.67.111:234/play/a09d/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",ciudad magazine
-http://190.104.67.111:234/play/a06m/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",el nueve HD
-http://190.104.67.111:234/play/a08k/index.m3u8
-#EXTINF:-1 group-title="LATINO 2",el trece HD
-http://190.104.67.111:234/play/a07b/index.m3u8
+http://45.5.151.62:8000/play/a03u/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",TEEN NICK HD
+http://45.5.151.62:8000/play/a02u/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",TELENOVELAS HD
+http://45.5.151.62:8000/play/a06r/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",TLNOVELAS HD
+http://45.5.151.62:8000/play/a09z/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",TN
+http://45.5.151.62:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",TNT NOVELAS HD
+http://45.5.151.62:8000/play/a0a0/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",TNT SERIES HD
+http://45.5.151.62:8000/play/a0a5/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",TURBO
+http://45.5.151.62:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",TV PUBLICA HD
+http://45.5.151.62:8000/play/a09k/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",UNITEL
+http://45.5.151.62:8000/play/a06x/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",VOLVER
+http://45.5.151.62:8000/play/a03v/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",WB HD
+http://45.5.151.62:8000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",canal7
+http://45.5.151.62:8000/play/a09x/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",espnpremium2
+http://45.5.151.62:8000/play/a06h/index.m3u8
+#EXTINF:-1 group-title="LATINO 2",tlnovelas-60
+http://45.5.151.62:8000/play/a09u/index.m3u8
 
 
 
