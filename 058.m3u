@@ -44,3 +44,6 @@ https://cdn.trimi.com.ar/live/sm-live/CANAL_E/sa_live_dash/CANAL_E.mpd
 #EXTINF:-1 group-title="456", urbana play
 https://joy.nx-pc.edge-apps.net/hls/3dn0g-j9clp-hngk7-ki23g_480p/index.m3u8
 
+#EXTINF:-1 group-title="456", canal infantil
+https://joy.nx-pc.edge-apps.net/hls/d45pa-2lfp1-e8p5j-3k22i.m3u8
+
