@@ -35,3 +35,6 @@ https://joy.nx-pc.edge-apps.net/hls/k4jn-k8e9h-i267a-acckf_720p/index.m3u8
 #EXTINF:-1 group-title="456", tve
 https://el4live2.boldmss.com/TVE/TVE_EL4.isml/TVE.mpd
 
+#EXTINF:-1 group-title="456", daystar
+https://smt-usr-edge02.sensa.com.ar/output/SMT7/DayTVd/output.mpd
+
