@@ -26,3 +26,9 @@ https://edge-mix02-ird.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #EXTINF:-1 group-title="456",canal i salta (18)
 https://videostream.shockmedia.com.ar:19360/canalglobaltv/canalglobaltv.m3u8
 
+#EXTINF:-1 group-title="456",canal 10 salta
+https://stream1.el10tv.com/memfs/accd8bcb-61b0-416b-bf02-0245cb8267f6_output_0.m3u8
+
+#EXTINF:-1 group-title="456", star tve
+https://joy.nx-pc.edge-apps.net/hls/k4jn-k8e9h-i267a-acckf_720p/index.m3u8
+
