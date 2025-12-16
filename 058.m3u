@@ -53,3 +53,7 @@ https://joy.nx-pc.edge-apps.net/hls/mcl11-2ja70-fnhg5-coojh.m3u8
 #EXTINF:-1 group-title="456", canal a
 https://el4live2.boldmss.com/CANAL_A/CANAL_A_EL4.isml/CANAL_A.mpd
 
+
+#EXTINF:-1 group-title="456", tn
+https://el4live1.boldmss.com/TN/TN_EL4.isml/TN_EL4.mpd
+
