@@ -38,3 +38,6 @@ https://el4live2.boldmss.com/TVE/TVE_EL4.isml/TVE.mpd
 #EXTINF:-1 group-title="456", daystar
 https://smt-usr-edge02.sensa.com.ar/output/SMT7/DayTVd/output.mpd
 
+#EXTINF:-1 group-title="456", canal e
+https://cdn.trimi.com.ar/live/sm-live/CANAL_E/sa_live_dash/CANAL_E.mpd
+
