@@ -33,7 +33,7 @@ https://videostream.shockmedia.com.ar:19360/canalglobaltv/canalglobaltv.m3u8
 https://stream1.el10tv.com/memfs/accd8bcb-61b0-416b-bf02-0245cb8267f6_output_0.m3u8
 
 #EXTINF:-1 group-title="456", star tve
-https://joy.nx-pc.edge-apps.net/hls/k4jn-k8e9h-i267a-acckf_720p/index.m3u8
+https://joy.nx-pc.edge-apps.net/hls/k4jn-k8e9h-i267a-acckf.m3u8
 
 #EXTINF:-1 group-title="456", tve
 https://el4live2.boldmss.com/TVE/TVE_EL4.isml/TVE.mpd
