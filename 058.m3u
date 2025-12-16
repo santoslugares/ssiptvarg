@@ -50,3 +50,6 @@ https://joy.nx-pc.edge-apps.net/hls/d45pa-2lfp1-e8p5j-3k22i.m3u8
 #EXTINF:-1 group-title="456", hbo family
 https://joy.nx-pc.edge-apps.net/hls/mcl11-2ja70-fnhg5-coojh.m3u8
 
+#EXTINF:-1 group-title="456", canal a
+https://el4live2.boldmss.com/CANAL_A/CANAL_A_EL4.isml/CANAL_A.mpd
+
