@@ -32,5 +32,9 @@ https://smt-usr-edge02.sensa.com.ar/output/SMT7/DayTVd/output.mpd
 https://smt-usr-edge02.sensa.com.ar/output/ARR/ALMD/output.mpd
 
 
+#EXTINF:-1 group-title="456", Canal5GIGD
+https://smt-usr-edge02.sensa.com.ar/output/ARR/Canal5GIGD/output.mpd
+
+
 
 
