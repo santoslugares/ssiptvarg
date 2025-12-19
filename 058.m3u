@@ -7,14 +7,19 @@
 #EXTINF:-1 group-title="456", witel
 https://mediastore01.playme.com.ar/dash/CH_EVENTOS/playlist.mpd
 
+#EXTINF:-1 group-title="456", unife
+https://mediastore01.playme.com.ar/dash/CH_UNIFE/playlist.mpd
+
+#EXTINF:-1 group-title="456", net
+https://mediastore01.playme.com.ar/dash/CH_NETTV/playlist.mpd
 
 #EXTINF:-1 tvg-logo="https://www.construirtv.com/wp-content/uploads/2020/03/Logo_300.png" group-title="NACIONALES", lista 38 
 http://45.173.75.4:2061/play/a08h
 
 
 
-#EXTINF:-1 group-title="456", PRUEBA
-https://apps.playme.com.ar/dash/CH_SUNCHALES_DIAXDIA/playlist.mpd
+#EXTINF:-1 group-title="456", ch sunchales
+https://mediastore01.playme.com.ar/dash/CH_SUNCHALES_DIAXDIA/playlist.mpd
 
 
 
