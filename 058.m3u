@@ -2,67 +2,27 @@
 
 
 
-#EXTINF:-1 group-title="456", novelisima
-https://joy.nx-pc.edge-apps.net/hls/jlg10-a783n-d578n-mo8ch_720p/index.m3u8
+
 
 #EXTINF:-1 group-title="456", witel
 https://mediastore01.playme.com.ar/dash/CH_EVENTOS/playlist.mpd
 
-#EXTINF:-1 group-title="456", cablevideo
-https://joy.nx-pc.edge-apps.net/hls/m8hok-nellb-e6mo6-n858e.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.construirtv.com/wp-content/uploads/2020/03/Logo_300.png" group-title="NACIONALES", lista 37
-http://190.102.151.6:9998/play/a07n
 
 #EXTINF:-1 tvg-logo="https://www.construirtv.com/wp-content/uploads/2020/03/Logo_300.png" group-title="NACIONALES", lista 38 
 http://45.173.75.4:2061/play/a08h
 
-#EXTINF:-1 group-title="456", espn premiun
-https://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8
+
 
 #EXTINF:-1 group-title="456", PRUEBA
 https://apps.playme.com.ar/dash/CH_SUNCHALES_DIAXDIA/playlist.mpd
 
-#EXTINF:-1 group-title="456", 13 rio cuarto
-https://edge-mix01-ros.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2MDkyNDIxIiwic2lwIjoiMjAwLjMuMTEzLjciLCJwYXRoIjoiL2xpdmUvYzRlZHMvQ2FuYWxfMTNfUmlvXzR0by9TQV9MaXZlX2Rhc2hfZW5jX0MvIiwic2Vzc2lvbl9jZG5faWQiOiI3OWRmMDEzY2Y1MmM1YWQ4Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjEwMSIsInNvdXJjZXMiOls2OSw4NSwxNDQsODYsODhdfQ==.R7hyjClpKmBeyRpgZYmoccjkHueto_O8kU5fPNHpwTDLEOzntJ5Lz4XsBFs3npLE06g-TVDVgWJ2kVNJeMXaxQ==/live/c4eds/Canal_13_Rio_4to/SA_Live_dash_enc_C/Canal_13_Rio_4to.mpd
 
-#EXTINF:-1 group-title="456", la voz tucuman
-https://lavozargentina.com/lavozdetucuman.m3u8
 
-#EXTINF:-1 group-title="456", 7 sde
-https://edge-mix02-ird.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY2MDkyODg0Iiwic2lwIjoiMjAwLjMuMTEzLjciLCJwYXRoIjoiL2xpdmUvYzNlZHMvQ2FuYWw3X1NERS9TQV9MaXZlX2Rhc2hfZW5jX0MvIiwic2Vzc2lvbl9jZG5faWQiOiIxZDI0YzM5ZjY0Nzk0NGU0Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjkxIiwic291cmNlcyI6WzY5LDg1LDE0NCw4Niw4OF19.GJAWgq8g725hAllxQHqh9kQPIDG1bjRLmYAITrkfOHAfzejipNroIDhxaPZlEv_aNMkn4VLO4ImK6FVYCN8siw==/live/c3eds/Canal7_SDE/SA_Live_dash_enc_C/Canal7_SDE.mpd
 
-#EXTINF:-1 group-title="456",canal i salta (18)
-https://videostream.shockmedia.com.ar:19360/canalglobaltv/canalglobaltv.m3u8
-
-#EXTINF:-1 group-title="456",canal 10 salta
-https://stream1.el10tv.com/memfs/accd8bcb-61b0-416b-bf02-0245cb8267f6_output_0.m3u8
-
-#EXTINF:-1 group-title="456", star tve
-https://joy.nx-pc.edge-apps.net/hls/k4jn-k8e9h-i267a-acckf.m3u8
-
-#EXTINF:-1 group-title="456", tve
-https://el4live2.boldmss.com/TVE/TVE_EL4.isml/TVE.mpd
 
 #EXTINF:-1 group-title="456", daystar
 https://smt-usr-edge02.sensa.com.ar/output/SMT7/DayTVd/output.mpd
 
-#EXTINF:-1 group-title="456", canal e
-https://cdn.trimi.com.ar/live/sm-live/CANAL_E/sa_live_dash/CANAL_E.mpd
-
-#EXTINF:-1 group-title="456", urbana play
-https://joy.nx-pc.edge-apps.net/hls/3dn0g-j9clp-hngk7-ki23g_480p/index.m3u8
-
-#EXTINF:-1 group-title="456", canal infantil
-https://joy.nx-pc.edge-apps.net/hls/d45pa-2lfp1-e8p5j-3k22i.m3u8
-
-#EXTINF:-1 group-title="456", hbo family
-https://joy.nx-pc.edge-apps.net/hls/mcl11-2ja70-fnhg5-coojh.m3u8
-
-#EXTINF:-1 group-title="456", canal a
-https://el4live2.boldmss.com/CANAL_A/CANAL_A_EL4.isml/CANAL_A.mpd
 
 
-#EXTINF:-1 group-title="456", tn
-https://el4live1.boldmss.com/TN/TN_EL4.isml/TN_EL4.mpd
 
