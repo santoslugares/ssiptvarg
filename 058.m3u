@@ -1,6 +1,10 @@
 #EXTM3U   
 
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ey": "48e4ece770a97ea75bb702812c:Id": "d5f49863d2f843219d84316c7
+#EXTINF:-1 ch-number="421" tvg-id="Sun Channel HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/484/CH_LOGO/800/542/0/0/8882809507771.png" group-title="FLOW OPCION 1", tnl
+https://mediastore02.playme.com.ar/dash/CH_TN/playlist.mpd
 
 
 
