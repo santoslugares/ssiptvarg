@@ -1126,7 +1126,7 @@ https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="TELECENTRO", Telefe
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8  
+http://190.7.19.197:232/play/a059/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal26.png" group-title="TELECENTRO", Canal 26
 http://200.80.230.123:8000/play/a01r/index.m3u8
@@ -1146,7 +1146,6 @@ http://liketv.pro:80/User1626/28TM4MEU66/246843.ts
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5yCPV36WLATWGEgkWv6h3D/5cc84285f9792100a4444091ddd3999b/07_BRAVO-TV-entretenimiento.png?fm=webp&q=80" group-title="TELECENTRO" , Bravo TV
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
-
 
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png" group-title="TELECENTRO", Cronica HD
 http://201.217.246.177:8000/play/a01q/index.m3u8
@@ -1194,7 +1193,7 @@ http://200.80.230.123:8000/play/a0ab/index.m3u8
 http://200.80.230.123:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTurbo.png" audio-track="spa" group-title="TELECENTRO", Discovery Turbo
-http://200.80.230.123:8000/play/a01w/index.m3u8
+http://201.217.247.165:8000/play/a062/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#espn-3" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn3.png" group-title="TELECENTRO", ESPN 3
 http://200.80.230.123:8000/play/a0ad/index.m3u8
@@ -1221,7 +1220,7 @@ http://200.80.230.123:8000/play/a075/index.m3u8
 http://200.80.230.123:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#nickelodeon-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Nickelodeon.png" audio-track="spa" group-title="TELECENTRO", Nickelodeon
-http://200.80.230.123:8000/play/a0b0/index.m3u8
+http://201.217.247.165:8000/play/a08y/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#boomerang-cartoon" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Cartoonito.png" audio-track="spa" group-title="TELECENTRO", Cartoonito
 http://179.1.148.246:8888/play/a0ff/index.m3u8
@@ -1287,7 +1286,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/strea
 http://185.207.34.31:8000/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinear.ar" tvg-country="AR" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/cine-ar.png" group-title="TELECENTRO", CineAr
-http://200.80.230.123:8000/play/a024/index.m3u8
+http://201.217.247.165:8000/play/a069/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1200px-USA_Network_logo_%282016%29.svg.png" group-title="TELECENTRO", Usa
 http://200.80.230.123:8000/play/a023/index.m3u8
