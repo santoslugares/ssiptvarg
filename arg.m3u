@@ -1364,7 +1364,7 @@ http://200.80.230.123:8000/play/a021/index.m3u8
 http://200.80.230.123:8000/play/a06n/index.m3u8
 
 #EXTINF:-1 tvg-id="Europa.Europa.(EE).ar" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/129-EuropaEuropa.png" group-title="TELECENTRO", Europa Europa
-http://190.233.83.45:1983/play/a1r2/index.m3u8
+http://190.110.254.30:8000/play/a03x/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#hbo" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO.png" audio-track="spa" group-title="TELECENTRO", HBO
 http://200.80.230.123:8000/play/a06o/index.m3u8
@@ -1388,7 +1388,7 @@ http://190.233.83.45:1983/play/a1kk/index.m3u8
 http://138.121.114.86:8000/play/a06g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/HBO%20Mundi.png"group-title="TELECENTRO", HBO Mundi
-http://200.80.230.123:8000/play/a02a/index.m3u8
+http://201.217.247.165:8000/play/a06f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/60dStMuZCfyo3DqEMD0RFa/aa4713364373db825f7983a2086890b5/universal-cinema.png?fm=webp&q=80" group-title="TELECENTRO" , Universal Cinema
 http://liketv.pro:80/User1626/28TM4MEU66/17627.ts
