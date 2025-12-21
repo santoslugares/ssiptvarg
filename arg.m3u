@@ -1759,9 +1759,6 @@ https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1288596112761397249/EQcy0Iho.jpg" group-title="PCIA BS AS", CANAL 11 MAR DE AJO
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 
-
-
-
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-TV2BA.png" group-title="PCIA BS AS", CANAL 2 BALCARCE
 https://videohd.live:19360/8064/8064.m3u8
 
@@ -1855,7 +1852,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/streamcnoticias/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.celtatv.com.ar/images/logo.png" group-title="PCIA BS AS", Celta TV 9 Tres Arroyos
 https://vivo.solumedia.com:19360/celta/celta.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://culturayespectaculos.com/wp-content/uploads/2021/01/logo-e1611270633226.png" group-title="PCIA BS AS", AGENDA TV TANDIL
+https://live20.bozztv.com/akamaissh101/ssh101/agendacye/playlist.m3u8
 
 
 
