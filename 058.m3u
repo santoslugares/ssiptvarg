@@ -25,6 +25,10 @@ https://smt-usr-edge02.sensa.com.ar/output/SMT7/DayTVd/output.mpd
 https://ice3.edge-apps.net/joy-radios/frecuencia_plus/playlist.m3u8
 
 
+#EXTINF:-1 group-title="456", radio clasica
+https://ice3.edge-apps.net/joy-radios/clasica/playlist.m3u8
+
+
 
 
 
