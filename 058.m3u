@@ -38,6 +38,9 @@ https://ice3.edge-apps.net/joy-radios/fmvida/playlist.m3u8
 #EXTINF:-1 group-title="456", radio 2
 https://ice3.edge-apps.net/joy-radios/radio2/playlist.m3u8
 
+#EXTINF:-1 group-title="456", folcklorica
+https://ice3.edge-apps.net/joy-radios/folklorica/playlist.m3u8
+
 
 
 
