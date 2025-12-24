@@ -71,6 +71,9 @@ http://190.108.89.228:8000/play/a05w/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="Tango Sports", DSPORTS 2
 http://179.51.136.19:8000/play/a112/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="Tango Sports", DSPORTS 2
+http://vipxtream.com:80/DELUXE1096/7a97d11b2aa9d317/712757.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/960px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="Tango Sports", DSPORTS +
 http://38.199.6.1:17001/play/a0vx/index.m3u8
 
