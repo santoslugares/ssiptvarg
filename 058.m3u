@@ -1,11 +1,10 @@
 #EXTM3U   
 
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ey": "48e4ece770a97ea75bb702812c:Id": "d5f49863d2f843219d84316c7
-#EXTINF:-1 ch-number="421" tvg-id="Sun Channel HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/484/CH_LOGO/800/542/0/0/8882809507771.png" group-title="FLOW OPCION 1", tnl
-https://mediastore02.playme.com.ar/dash/CH_TN/playlist.mpd
 
+
+#EXTINF:-1 tvg-logo="https://www.construirtv.com/wp-content/uploads/2020/03/Logo_300.png" group-title="NACIONALES", lista 38 
+http://45.173.75.4:2061/play/a08h
 
 
 #EXTINF:-1 group-title="456", witel
@@ -17,27 +16,16 @@ https://mediastore01.playme.com.ar/dash/CH_UNIFE/playlist.mpd
 #EXTINF:-1 group-title="456", net
 https://mediastore01.playme.com.ar/dash/CH_NETTV/playlist.mpd
 
-#EXTINF:-1 tvg-logo="https://www.construirtv.com/wp-content/uploads/2020/03/Logo_300.png" group-title="NACIONALES", lista 38 
-http://45.173.75.4:2061/play/a08h
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="456", daystar
 https://smt-usr-edge02.sensa.com.ar/output/SMT7/DayTVd/output.mpd
 
 
-#EXTINF:-1 group-title="456", almd
-https://smt-usr-edge02.sensa.com.ar/output/ARR/ALMD/output.mpd
+#EXTINF:-1 group-title="456", csc radio
+https://cscradio.duckdns.org/live/csc.m3u8
 
 
-#EXTINF:-1 group-title="456", Canal5GIGD
-https://smt-usr-edge02.sensa.com.ar/output/ARR/Canal5GIGD/output.mpd
+
 
 
 
