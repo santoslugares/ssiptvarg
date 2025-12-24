@@ -21,8 +21,8 @@ https://mediastore01.playme.com.ar/dash/CH_NETTV/playlist.mpd
 https://smt-usr-edge02.sensa.com.ar/output/SMT7/DayTVd/output.mpd
 
 
-#EXTINF:-1 group-title="456", csc radio
-https://cscradio.duckdns.org/live/csc.m3u8
+#EXTINF:-1 group-title="456", frecuencia plus
+https://ice3.edge-apps.net/joy-radios/frecuencia_plus/playlist.m3u8
 
 
 
