@@ -3163,6 +3163,17 @@ https://videostream.shockmedia.com.ar:19360/cadena2000/cadena2000.m3u8
 https://vivo.solumedia.com:19360/rock24/rock24.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://radiocsc.com/wp-content/uploads/elementor/thumbs/LOGO-PNG-BLANCO-CSC-degrade-pzu1e5b0jzzmkqgti01p5mzzj5nih8apoxlwoyhtie.png" group-title="RADIO - SANTA FE", CSC Radio FM 106.5 
+https://cscradio.duckdns.org/live/csc.m3u8
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://www.diariopanorama.com/img/2020/logo-navidad2021.png" group-title="SANTIAGO DEL ESTERO", DIARIO PANORAMA SANTIAGO DEL ESTERO
