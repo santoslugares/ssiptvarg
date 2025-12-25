@@ -1700,6 +1700,14 @@ http://server.laradio.online:25224/live.mp3
 #EXTINF:-1 tvg-logo="https://fmfutura.com.ar/wp-content/uploads/2009/10/Futura-Podcast2.gif" group-title="RADIO-AMBA", RADIO FUTURA 90.5 LA PLATA (SOLO AUDIO)
 http://streamer.fmfutura.com.ar:8000/vivo.mp3
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/LRA338_Nacional_Cl%C3%A1sica_%282021%29.png/250px-LRA338_Nacional_Cl%C3%A1sica_%282021%29.png" group-title="RADIO-AMBA", RADIO CLASICA NACIONAL (SOLO AUDIO)
+https://ice3.edge-apps.net/joy-radios/clasica/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/LRA339_Nacional_Folkl%C3%B3rica_%282021%29.png/250px-LRA339_Nacional_Folkl%C3%B3rica_%282021%29.png" group-title="RADIO-AMBA", RADIO FOLCKLORICA NACIONAL (SOLO AUDIO)
+https://ice3.edge-apps.net/joy-radios/folklorica/playlist.m3u8
+
+
+
 
 
 
@@ -3162,11 +3170,17 @@ https://videostream.shockmedia.com.ar:19360/cadena2000/cadena2000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlnGzc4VNkAdkDAa6XUd2yPMMRx1c9YC2WYA&s" group-title="RADIO - SANTA FE", Radio Rock 24 Casilda
 https://vivo.solumedia.com:19360/rock24/rock24.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://radiocsc.com/wp-content/uploads/elementor/thumbs/LOGO-PNG-BLANCO-CSC-degrade-pzu1e5b0jzzmkqgti01p5mzzj5nih8apoxlwoyhtie.png" group-title="RADIO - SANTA FE", CSC Radio FM 106.5 
 https://cscradio.duckdns.org/live/csc.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Radio_2_Rosario_%28Logo_2019%29.svg/500px-Radio_2_Rosario_%28Logo_2019%29.svg.png" group-title="RADIO - SANTA FE", RADIO 2 (SOLO AUDIO)
+https://ice3.edge-apps.net/joy-radios/radio2/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/FM_Vida_Rosario_%28Logo_2019%29.svg/330px-FM_Vida_Rosario_%28Logo_2019%29.svg.png" group-title="RADIO - SANTA FE", FM VIDA (SOLO AUDIO)
+https://ice3.edge-apps.net/joy-radios/fmvida/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Frecuencia_Plus_Rosario_%28Logo_2019%29.svg/1200px-Frecuencia_Plus_Rosario_%28Logo_2019%29.svg.png" group-title="RADIO - SANTA FE", PLUS 93.1 (SOLO AUDIO)
+https://ice3.edge-apps.net/joy-radios/frecuencia_plus/playlist.m3u8
 
 
 
